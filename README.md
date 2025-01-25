@@ -1,0 +1,1 @@
+patika.dev web sitesindeki eğitimlere ait projeler yer almaktadır.
