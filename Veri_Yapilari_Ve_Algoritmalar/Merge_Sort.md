@@ -17,4 +17,4 @@ Big-O gösterimini yazınız.
 
 **6. Adım:** [8,11,12,16,21,22] Şeklinde sıralama işlemi tamamlanır.
 
-Big-O Notation O(n*log n)--> n=6, log₂6=2.58≈3 => O(6*log6) => O(6*3)=O(18)
+Big-O Notation O(n\*log n)--> n=6, log₂6=2.58≈3 => O(6\*log6) => O(6*3)=O(18)
